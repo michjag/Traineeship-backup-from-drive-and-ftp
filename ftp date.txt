@@ -1,0 +1,8 @@
+address=ftp.atman.pl
+user=anonymous
+password=anonymous
+file=test1mb
+address=ftp.atman.pl
+user=anonymous
+password=anonymous
+file=test64mb
